@@ -1,3 +1,7 @@
+// Title: Exercise 7.4
+// Author: Evan Durkin
+// Date: February 19, 2022
+
 import { Injectable } from '@angular/core';
 import { ActivatedRouteSnapshot, CanActivate, RouterStateSnapshot, UrlTree } from '@angular/router';
 import { Observable } from 'rxjs';

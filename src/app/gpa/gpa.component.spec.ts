@@ -1,3 +1,7 @@
+// Title: Exercise 7.4
+// Author: Evan Durkin
+// Date: February 19, 2022
+
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { GpaComponent } from './gpa.component';
